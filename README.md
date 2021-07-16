@@ -1,4 +1,4 @@
-![Github Banner](https://raw.githubusercontent.com/Jamir45/Jamir45/main/code.png)
+![Github Banner](https://raw.githubusercontent.com/Jamir45/Jamir45/main/mycode1.png)
 
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
@@ -11,7 +11,7 @@ This is Jamir Hossain, A Self-Taught, Tech enthusiast, and Creative Front-end & 
 
 :coffee: &emsp;Connect with me!
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jamirhossain203/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamir-hossain/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamirhossain203@gmail.com)
+[![Website Badge](https://img.shields.io/badge/Website-393962?style=for-the-badge&logo=atom)](https://jamir-hossain.web.app/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jamirhossain203/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamir-hossain/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamirhossain203@gmail.com)
 
 
 ## Programming knowledge with
